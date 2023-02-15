@@ -24,7 +24,7 @@ html {
 
 }
 
-.container svg {
+.container img {
     width: 48px;
     height: 48px;
     margin: 32px 136px 6px 24px;
@@ -54,10 +54,6 @@ html {
 
 .container:hover {
     background-color: #18161F;
-}
-
-.container:hover svg path {
-    fill: #FFF
 }
 
 .container:hover p {
